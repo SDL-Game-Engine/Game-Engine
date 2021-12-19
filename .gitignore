@@ -1,0 +1,22 @@
+# .dll files for SDL2
+*.dll
+
+# .o files
+*.o
+
+# .vscode configuration
+.vscode/
+
+# compiled binaries
+bin/release/main
+bin/release/debug
+
+# SDL2 include files
+include/SDL2/
+
+# SDL2 lib files
+lib/SDL2/
+
+# res files used for testing
+res/gfx/*.*
+res/sfx/*.*

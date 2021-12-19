@@ -1,0 +1,19 @@
+V1.0.0
+  Phase 1
+    - simplify window init -> Done
+    - sprite definition -> Done
+    - set up lambda closure methods for sprites -> Done
+    - custom sprite rendering and events -> Done
+    - user input based rendering
+    - gameRules
+  Phase 2
+    - built-in presets that help the programmer develop games faster
+    - add joystick support
+    - set up multithreading if possible
+    - modify makefile for cross-platform compilation
+    - documentation and error handling
+
+V2.0.0
+  - image manipulation
+  - more opengl implementation for better performance
+  - framework...?
