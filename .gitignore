@@ -8,8 +8,8 @@
 .vscode/
 
 # compiled binaries
-bin/release/main
-bin/release/debug
+bin/release/*.*
+bin/debug/*.*
 
 # SDL2 include files
 include/SDL2/
